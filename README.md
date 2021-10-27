@@ -1,2 +1,2 @@
-# CEIA_AMQ2
-Repositorio aprendizaje de máquina 2
+# CEIA_ASdT
+Repositorio análisis de series de tiempo
